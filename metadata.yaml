@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39461
     wikipedia: http://en.wikipedia.org/wiki/Hallam_Tennyson,_2nd_Baron_Tennyson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45288#Jack-and-The-Bean-StalkEnglish-Hexameters
 gutenberg_issued: '2014-04-01'
 gutenberg_type: Text
 identifiers:
