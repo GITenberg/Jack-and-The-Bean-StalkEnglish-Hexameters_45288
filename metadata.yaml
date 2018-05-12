@@ -1,0 +1,40 @@
+_repo: Jack-and-The-Bean-StalkEnglish-Hexameters_45288
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: archival
+  image_path: 45288-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tennyson, Hallam Tennyson, Baron
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '39461'
+    url: http://www.gutenberg.org/2009/agents/39461
+    wikipedia: http://en.wikipedia.org/wiki/Hallam_Tennyson,_2nd_Baron_Tennyson
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Giants -- Juvenile poetry'
+- !lcsh 'Humorous poetry'
+- !lcsh 'Fairy tales -- Juvenile poetry'
+title: 'Jack and the Bean-Stalk: English Hexameters'
+url: http://www.gutenberg.org/ebooks/45288
